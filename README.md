@@ -1,5 +1,5 @@
 # Locations-films
-Mise en place d'une base de données qui permettra de digitaliser tout le système tout le système d'une entreprise de location de film à l'aide d'un Relational Database Management System (RDBMS).
+Mise en place d'une base de données qui permettra de digitaliser tout le système d'une entreprise de location de film à l'aide d'un Relational Database Management System (RDBMS).
 
 1. une requête pour ajouter un film
 --> INSERT INTO `film` (`id_film`, `titre_film`, `date_sortie`, `duree_film`, `realisateur`) VALUES ('', '', '', '', '', '');
